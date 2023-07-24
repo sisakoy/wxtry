@@ -1,0 +1,12 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+www.terabox.com	FALSE	/	FALSE	0	csrfToken	YAeS66vkojY80-AVr1eQCxu-
+.terabox.com	TRUE	/	FALSE	1695320139	browserid	t9LpZcdtZOC7hTWfhkFCUFv8edTVoMXE3jgc0LbTIUNr3H48MwsyROcYwco=
+www.terabox.com	FALSE	/	FALSE	1692728163	lang	en
+.terabox.com	TRUE	/	FALSE	2005496178	__bid_n	18983f6fc1c93afd774207
+www.terabox.com	FALSE	/	FALSE	1705688158	g_state	{"i_l":0}
+.terabox.com	TRUE	/	TRUE	1721672161	ndus	Yydj4upteHuiLDF4pSZBzexecyM7s0kYuxH0sp0Y
+www.terabox.com	FALSE	/	FALSE	1692728177	ndut_fmt	7FE23B6CFAEBD776BFF7A485D63D3A23E5BE0533C31775C71A80AB96B635C3AF
+.terabox.com	TRUE	/	TRUE	1690143381	ab_sr	1.0.1_OTRhMjM5MzljMWZhNDA1MDI1YjNiMWE3MWM1N2RjMzQ5M2RlMjgyYjNmMzUyZDE3MDc1YzY4M2QyYjVkNjgxYmM5YTEwYzRjZmRiYWUzMmI2MWNiMjE5ZTQ4MWMyNGUyOTlkZmE2OWRhOTlhOTA3MjMzNzQzMjUyYjk5NWU0OGIzM2M1MmY0NmE1YTZlNmI2NmVlODQzNWI4NWIyZjdlNg==
